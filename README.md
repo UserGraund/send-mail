@@ -7,3 +7,7 @@ For python 2 install mock library
 
 Running:
 ``python __main__.py``
+
+
+Run tests:
+``python -m unittest discover tests``
